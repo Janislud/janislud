@@ -1,4 +1,4 @@
-About
+<h1>About</h1>
 
 ---
 
@@ -7,6 +7,6 @@ About
 <li>🌗 Currently learning Front-end </li>
 <li>🌘 Also had experience with Redux Toolkit</li>
 
-Stack
+<h2>Stack</h2>
 
 ---
